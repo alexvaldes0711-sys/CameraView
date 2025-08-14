@@ -1,4 +1,7 @@
----
+<com.otaliastudios.cameraview.CameraView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cameraFilter="@string/cameraview_filter_none"/>---
 layout: page
 title: "Capturing Media"
 description: "Understanding pictures, videos and the snapshot concept"
