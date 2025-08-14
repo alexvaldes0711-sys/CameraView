@@ -1,3 +1,4 @@
+api 'com.otaliastudios:cameraview:2.7.2'
 ---
 layout: page
 title: "Gestures"
