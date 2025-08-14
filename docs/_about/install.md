@@ -1,4 +1,8 @@
----
+-<com.otaliastudios.cameraview.CameraView
+    android:id="@+id/camera"
+    android:keepScreenOn="true"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />-
 layout: page
 title: "Install"
 description: "Integrate in your project"
