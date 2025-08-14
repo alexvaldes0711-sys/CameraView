@@ -1,3 +1,6 @@
+repositories {
+  mavenCentral()
+}
 ---
 layout: page
 title: "Install"
